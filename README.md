@@ -1,8 +1,7 @@
 # pi-on-rack
-Just like the name, Raspberrypi rackmount. 
 ![untitled](https://user-images.githubusercontent.com/31970387/173153490-66827b3b-922d-45e7-84c7-7af6f8fc9409.png)
-
-## This project has not been tested! Use as your own risk! ##
+Just like the name, Raspberrypi rackmount. 
+###This project has not been tested! Use as your own risk! 
 
 
 ![untitled1](https://user-images.githubusercontent.com/31970387/173153712-d2360be9-618e-4538-84a4-4636487cdaec.png)
