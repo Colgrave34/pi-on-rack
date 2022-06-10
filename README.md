@@ -3,6 +3,7 @@
 #### Just like the name, this is a Raspberry Pi rackmount. 
 ### This project has not been tested! Use at your own risk! 
 This project is specifically built for Raspberry Pi 4 with official PoE HAT. No guarantee it will work for Raspberry Pi 3b+ or other HATs. \
+I use m2.5 hex standoffs (m2.5*4+4)\
 \
 .stl file :point_right: [Here](https://github.com/Colgrave34/pi-on-rack/blob/main/left-mount/left-single/left-single.stl) \
 I used Blender for this project. And used [Boolean](https://docs.blender.org/manual/en/latest/modeling/modifiers/generate/booleans.html) to use out the holes. \
