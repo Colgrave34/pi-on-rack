@@ -5,3 +5,4 @@
 I have plans for duel mount, right-mount and full 1U mount, please look forward to it! \
 \
 Special thanks to [TrasteTh](https://www.thingiverse.com/trasteth/designs) for the [RaspberryPi 4 3D file](https://www.thingiverse.com/thing:3747610/files)! 
+[pi-on-rack]() © 2022 is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
