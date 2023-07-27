@@ -1,6 +1,6 @@
 # pi-on-rack
 ![left-single](https://user-images.githubusercontent.com/31970387/197358675-aa88f577-4f36-4af7-96ef-e6acb4ab5fa1.jpg)
-#### Just like the name, this is a Raspberry Pi rack mount. 
+## Just like the name, this is a Raspberry Pi rack mount. 
 I specifically built for Raspberry Pi 4 with official PoE HAT. It should work fine with Raspberry Pi 3b+ with PoE HAT.  
 I use m2.5 hex standoffs (m2.5_4+4)  
 The standoffs should be screw between the bottom PCB and the piece with the screws that come with PoE HAT.  
